@@ -1,0 +1,26 @@
+{
+  "name": "crud-operation",
+  "version": "1.0.0",
+  "description": "Node connecting with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekAnand106001/Node-CRUD-Operation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekAnand106001/Node-CRUD-Operation/issues"
+  },
+  "homepage": "https://github.com/AbhishekAnand106001/Node-CRUD-Operation#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
